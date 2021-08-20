@@ -25,7 +25,7 @@ todo el territorio de ese País. Así como mostrar los datos obtenidos de ese Pa
 
 ## OTRAS PRUEBAS
 
-![alt text](https://github.com/AndyNinasunta/Evaluacion_Parcial/blob/master/Interfaces/6.PNG)
+![alt text](https://github.com/AndyNinasunta/Evaluacion_Parcial/blob/master/Interfaces/8.PNG)
 ![alt text](https://github.com/AndyNinasunta/Evaluacion_Parcial/blob/master/Interfaces/7.PNG)
 
 ## IMAGENES USADAS
